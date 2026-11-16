@@ -1,0 +1,4 @@
+dist/*.a
+dist/ios.zip
+venv/
+godot-src/
